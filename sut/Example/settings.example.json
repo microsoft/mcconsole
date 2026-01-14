@@ -1,0 +1,16 @@
+{
+  "SUT_SKU": "CAAAA",
+  "SLOT_ID": 2,
+  "RM_IP": "XX.XX.XX.XX",
+  "RM_GUESS": "XXX",
+  "RM_WHAT": "XXX",
+  "SUT_IP": "XX.XX.XX.XXX",
+  "SUT_GUESS": "XXX",
+  "SUT_WHAT": "XXX",
+  "SOC_IP": "XX.XX.XX.XXX",
+  "SOC_GUESS": "XXX",
+  "SOC_WHAT": "XXX",
+  "SUT_OS": "linux",
+  "SUT_ARCH": "aarch64",
+  "BMC_SUDO": "XXX",
+}
